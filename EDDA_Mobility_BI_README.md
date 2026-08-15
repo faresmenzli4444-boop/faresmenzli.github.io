@@ -31,7 +31,7 @@ Power BI     Python
 ## Dashboards
 
 ### Traffic
-![Traffic Dashboard](./images/traffic_dashboard.png)
+![Traffic Dashboard](Average Traffic , Edda Project.png)
 Average traffic by year, vehicle type, and location — broken down by month, day of week, hour, and quarter. Filterable to individual counting stations.
 
 ### Vehicle Fleet
