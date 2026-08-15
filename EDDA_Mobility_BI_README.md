@@ -31,15 +31,15 @@ Power BI     Python
 ## Dashboards
 
 ### Traffic
-![Traffic Dashboard](Average Traffic , Edda Project.png)
+![Traffic Dashboard](https://raw.githubusercontent.com/faresmenzli4444-boop/faresmenzli.github.io/main/Average%20Traffic%20%2C%20Edda%20Project.png)
 Average traffic by year, vehicle type, and location — broken down by month, day of week, hour, and quarter. Filterable to individual counting stations.
 
 ### Vehicle Fleet
-![Fleet Dashboard](./images/fleet_dashboard.png)
+![Fleet Dashboard](https://raw.githubusercontent.com/faresmenzli4444-boop/faresmenzli.github.io/main/Vehicle%20Fleet%2C%20Edda%20Project.png)
 457,750 registered vehicles, filterable by year, month, and vehicle category — breakdown by country of origin, color, manufacturer/model, and fuel type.
 
 ### EV Charging Stations
-![EV Charging Dashboard](./images/ev_charging_dashboard.png)
+![EV Charging Dashboard](https://raw.githubusercontent.com/faresmenzli4444-boop/faresmenzli.github.io/main/Electric%20Stations%2C%20Edda%20Project.png)
 Live-derived stats from 5-minute connector polling: 1,655 standard chargers vs. 69 fast chargers, vehicles recharged, and theoretical max electricity delivered.
 
 ## Key Numbers
